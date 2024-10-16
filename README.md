@@ -82,7 +82,7 @@ I mastered front-end development at Hasbasoft using HTML, CSS, JavaScript, and R
 
 
 <h3 align="left">My Work:</h3>
-### 🌐 LEAP WEBSITE
+🌐 LEAP WEBSITE
 Built using HTML, CSS, and JavaScript. Includes sections for company overview, services, projects, courses, team, testimonials, and contact. Responsive design for optimal viewing across devices.
 
 ### 🌿 SMART GARDEN WEBSITE
