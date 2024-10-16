@@ -82,25 +82,25 @@ I mastered front-end development at Hasbasoft using HTML, CSS, JavaScript, and R
 
 
 <h3 align="left">My Work:</h3>
-### 🌐 [LEAP WEBSITE]
+### 🌐 LEAP WEBSITE
 Built using HTML, CSS, and JavaScript. Includes sections for company overview, services, projects, courses, team, testimonials, and contact. Responsive design for optimal viewing across devices.
 
-### 🌿 [SMART GARDEN WEBSITE]
+### 🌿 SMART GARDEN WEBSITE
 Built using HTML, CSS, and JavaScript. Features home page, about us, services, projects, team, contact, ordering, and image gallery sections. Includes Google Forms integration for inquiries. Responsive design for optimal viewing.
 
-### 🗺️ [TRIP TO UJJAIN WEBSITE]
+### 🗺️ TRIP TO UJJAIN WEBSITE
 Built using HTML, CSS, and JavaScript. Includes home page, about, contact, map, image gallery, and Google Forms integration. Offers direct booking and inquiry options. Responsive design for user convenience.
 
-### 🛒 [E-COMMERCE PORTAL DEVELOPMENT - AMAZON CLONE]
+### 🛒 E-COMMERCE PORTAL DEVELOPMENT - AMAZON CLONE
 Built using HTML, CSS, and React JS. Includes home page, product categories, search, product listings, and detail pages. Replicates core Amazon functionalities.
 
-### 🎬 [NETFLIX LIKE CLONE WEBSITE]
+### 🎬 NETFLIX LIKE CLONE WEBSITE
 Built using HTML, CSS, and JavaScript. Includes home, browse, search, and categories sections. Features dynamic movie/TV show listings. Replicates Netflix UI and user experience.
 
-### 🧠 [MENTAL HEALTH CHECKUP]
+### 🧠 MENTAL HEALTH CHECKUP
 Includes sections for Data Visualization, Predictive Modelling, and User Profiles to provide insights and personalized results. Features an intuitive dashboard that allows users to input personal data and visualize mental health predictions. Implements dynamic results based on a random forest algorithm, giving users real-time feedback on depression and anxiety risk.
 
-### 🎨 [DIGITAL CONTENT CREATION]
+### 🎨 DIGITAL CONTENT CREATION
 - **SMART GARDEN**: Created visually appealing marketing materials including flyers, booklets, brochures, posters, and cards using Canva and Figma.
 - **LEAP WEB**: Designed promotional materials such as flyers, booklets, brochures, posters, and cards to align with website branding using Canva and Figma.
 
