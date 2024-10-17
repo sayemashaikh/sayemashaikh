@@ -121,10 +121,21 @@ HTML, CSS, ReactJS – Data visualization and predictive modeling dashboard with
 - 🏆 [Eureka 2023 Semifinalist Certification](https://shorturl.at/YmWds)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemashaikh&show_icons=true&locale=en&layout=compact" alt="sayemashaikh" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemashaikh&show_icons=true&locale=en&layout=compact&theme=dark" alt="sayemashaikh" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemashaikh&show_icons=true&locale=en" alt="sayemashaikh" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemashaikh&show_icons=true&locale=en&theme=dark" alt="sayemashaikh" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemashaikh&" alt="sayemashaikh" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemashaikh&theme=dark" alt="sayemashaikh" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayemashaikh" alt="sayemashaikh" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sayemashaikh&theme=darkhub" alt="sayemashaikh" />
+  </a>
+</p>
+
