@@ -8,6 +8,7 @@
     
 # ⭐ About Me:
 <img align="right" alt="Sayema Shaikh" width="400" src="bg.png">
+<br>
 <p align="left">
  A passionate web developer with a strong background in front-end technologies like HTML, CSS, and JavaScript. I have experience in creating dynamic and responsive web applications and have worked with tools like React.js and Python. I also have a keen interest in UX/UI design, utilizing tools like Figma and Canva to enhance user experiences.
   <br><br>
