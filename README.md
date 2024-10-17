@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="sayemashaikh" /> </p>
 
     
-# ⭐ About Me:
+# 🧕 About Me:
 <img align="right" alt="Sayema Shaikh" width="400" src="bg.png">
 <br>
 <br>
