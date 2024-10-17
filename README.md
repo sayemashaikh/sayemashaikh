@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Web Developer & Digital Content Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="sayemashaikh" /> </p>
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    
 # ⭐ About Me:
 <p align="left">
   Hello! I'm Sayema Shaikh, a passionate web developer with a strong background in front-end technologies like HTML, CSS, and JavaScript. I have experience in creating dynamic and responsive web applications and have worked with tools like React.js and Python. I also have a keen interest in UX/UI design, utilizing tools like Figma and Canva to enhance user experiences.
@@ -11,7 +13,11 @@
   <br><br>
   Let's connect and collaborate!
 </p>
-
+ </div>
+  <div style="flex: 0 0 auto;">
+    <img src="your-image.jpg" alt="Sayema Shaikh" style="width: 150px; height: auto; border-radius: 50%;">
+  </div>
+</div>
 - 🌟 I’m a passionate Web Developer focused on creating dynamic web experiences.
 
 - 🎨 I create engaging digital content that captivates and informs
