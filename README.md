@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayema Shaikh</h1>
 <h3 align="center">A passionate Web Developer & Digital Content Creator</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="sayemashaikh" /> </p>
 
     
 # ⭐ About Me:
-
+<img align="right" alt="Sayema Shaikh" width="400" src="bg.png">
 <p align="left">
  A passionate web developer with a strong background in front-end technologies like HTML, CSS, and JavaScript. I have experience in creating dynamic and responsive web applications and have worked with tools like React.js and Python. I also have a keen interest in UX/UI design, utilizing tools like Figma and Canva to enhance user experiences.
   <br><br>
@@ -138,4 +140,3 @@ HTML, CSS, ReactJS – Data visualization and predictive modeling dashboard with
     <img src="https://github-profile-trophy.vercel.app/?username=sayemashaikh&theme=darkhub" alt="sayemashaikh" />
   </a>
 </p>
-
