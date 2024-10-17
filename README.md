@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="sayemashaikh" /> </p>
 
-<h3 align="left">About Me:</h3>
+# ⭐ About Me:
 <p align="left">
   Hello! I'm Sayema Shaikh, a passionate web developer with a strong background in front-end technologies like HTML, CSS, and JavaScript. I have experience in creating dynamic and responsive web applications and have worked with tools like React.js and Python. I also have a keen interest in UX/UI design, utilizing tools like Figma and Canva to enhance user experiences.
   <br><br>
@@ -20,46 +20,51 @@
 
 - 👨‍💻 All of my projects are available at (https://sayemashaikhportfolio.netlify.app/)
 
-- 📫 How to reach me **sayema.shaikh02@gmail.com**
+📚 Education: Bachelor's in Electronics and Computer Science
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sayema-shaikh-49665921" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+📍 Location: Mumbai, Maharashtra.
+
+📫 How to reach me **sayema.shaikh02@gmail.com**
+
+# 🤝 Connect with me:
+<div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="https://linkedin.com/in/sayema-shaikh-49665921" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="pulse" style="animation: pulse 1s infinite;">
   </a>
-  <a href="mailto:sayema.shaikh02@gmail.com" style="margin-left: 10px;" height="30" width="40">
-    📫
+  <a href="mailto:sayema.shaikh02@gmail.com" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="bounce" style="animation: bounce 2s infinite;">
   </a>
-</p>
+</div>
 
-<h3 align="left">Experience:</h3>
 
-### Sweekriti Asset LLP
+# 💼 Experience:
+
+### Sweekriti Asset LLP  
 **Frontend Web Developer**  
 *Dec 2023 - July 2024*  
-As Team Leader at Leap Web, I combine strategic leadership with hands-on front-end development to deliver exceptional user experiences. I lead and mentor the team, ensuring our projects align with the company's vision while maintaining top-quality standards.
+Led front-end development and mentored a team at Leap Web.
 
-### Sweekriti Asset LLP
+### Sweekriti Asset LLP  
 **Web Developer & Digital Head**  
 *Jun 2023 - Feb 2024*  
-As a multifaceted contributor at Smart Garden, I led the digital team as Web Developer, Content Designer, and Digital Head. I combined technology and creativity to build the brand, drive engagement, and execute innovative digital strategies.
+Led digital efforts at Smart Garden, combining web development and content design.
 
-### Hasbasoft Technology Pvt Ltd
+### Hasbasoft Technology Pvt Ltd  
 **Internship Trainee**  
 *Jun 2023 - Nov 2023*  
-I gained foundational Python programming and data analysis skills at Hasbasoft. I developed a strong grasp of Python syntax and basic data structures, providing a solid base for further exploration in this field.
+Developed skills in Python programming and data analysis.
 
-### Bombay Stock Exchange Limited
+### Bombay Stock Exchange Limited  
 **Internship Trainee**  
 *Dec 2022 - Jan 2023*  
-As an intern at the Bombay Stock Exchange, I honed my Python programming skills by undertaking web scraping projects. This role provided practical experience in extracting and analyzing data from online sources.
+Gained practical experience in Python and web scraping.
 
-### Hasbasoft Technology Pvt Ltd
+### Hasbasoft Technology Pvt Ltd  
 **Software Trainee**  
 *Aug 2020 - Feb 2022*  
-I mastered front-end development at Hasbasoft using HTML, CSS, JavaScript, and ReactJS. Through hands-on project experience, I developed a strong foundation in building dynamic web applications, responsive design, and user-centric development.
+Mastered front-end development using HTML, CSS, JS, and ReactJS.
 
-<h3 align="left">Languages and Tools:</h3>
+# 📚 Languages and Tools:
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
@@ -81,30 +86,30 @@ I mastered front-end development at Hasbasoft using HTML, CSS, JavaScript, and R
 </div>
 
 
-<h3 align="left">My Work:</h3>
-🌐 LEAP WEBSITE
-Built using HTML, CSS, and JavaScript. Includes sections for company overview, services, projects, courses, team, testimonials, and contact. Responsive design for optimal viewing across devices.
+# 🖥️ My Work:
+### 🌐 LEAP WEBSITE  
+HTML, CSS, JS – Company overview, services, team, courses, testimonials, and contact. Fully responsive.
 
-### 🌿 SMART GARDEN WEBSITE
-Built using HTML, CSS, and JavaScript. Features home page, about us, services, projects, team, contact, ordering, and image gallery sections. Includes Google Forms integration for inquiries. Responsive design for optimal viewing.
+### 🌿 SMART GARDEN WEBSITE  
+HTML, CSS, JS – Home, services, projects, contact, ordering, and image gallery. Integrated Google Forms for inquiries.
 
-### 🗺️ TRIP TO UJJAIN WEBSITE
-Built using HTML, CSS, and JavaScript. Includes home page, about, contact, map, image gallery, and Google Forms integration. Offers direct booking and inquiry options. Responsive design for user convenience.
+### 🗺️ TRIP TO UJJAIN WEBSITE  
+HTML, CSS, JS – Home, about, contact, map, image gallery. Direct booking and Google Forms integration.
 
-### 🛒 E-COMMERCE PORTAL DEVELOPMENT - AMAZON CLONE
-Built using HTML, CSS, and React JS. Includes home page, product categories, search, product listings, and detail pages. Replicates core Amazon functionalities.
+### 🛒 E-COMMERCE PORTAL - AMAZON CLONE  
+HTML, CSS, React JS – Replicates Amazon functionalities with product listings, search, and dynamic pages.
 
-### 🎬 NETFLIX LIKE CLONE WEBSITE
-Built using HTML, CSS, and JavaScript. Includes home, browse, search, and categories sections. Features dynamic movie/TV show listings. Replicates Netflix UI and user experience.
+### 🎬 NETFLIX CLONE WEBSITE  
+HTML, CSS, JS – Dynamic movie/TV listings, home, browse, search, and categories. Mimics Netflix UI.
 
-### 🧠 MENTAL HEALTH CHECKUP
-Includes sections for Data Visualization, Predictive Modelling, and User Profiles to provide insights and personalized results. Features an intuitive dashboard that allows users to input personal data and visualize mental health predictions. Implements dynamic results based on a random forest algorithm, giving users real-time feedback on depression and anxiety risk.
+### 🧠 MENTAL HEALTH CHECKUP  
+HTML, CSS, ReactJS – Data visualization and predictive modeling dashboard with real-time mental health feedback.
 
-### 🎨 DIGITAL CONTENT CREATION
-- **SMART GARDEN**: Created visually appealing marketing materials including flyers, booklets, brochures, posters, and cards using Canva and Figma.
-- **LEAP WEB**: Designed promotional materials such as flyers, booklets, brochures, posters, and cards to align with website branding using Canva and Figma.
+### 🎨 DIGITAL CONTENT CREATION  
+- **SMART GARDEN**: Flyers, brochures, posters using Canva and Figma.  
+- **LEAP WEB**: Designed marketing materials aligned with brand identity.
 
-<h3 align="left">Certificates:</h3>
+# 🔖 Certificates:
 
 - 🎓 [Advanced C++ Course Online](https://simpli-web.app.link/e/oIdldiHV5Mb)
 - 🔐 [Introduction to Ethical Hacking](https://www.mygreatlearning.com/certificate/DMRBIHPX)
