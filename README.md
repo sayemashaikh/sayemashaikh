@@ -72,23 +72,29 @@ Mastered front-end development using HTML, CSS, JS, and ReactJS.
 
 # 📚 Languages and Tools:
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Web%20Scraping-007ACC?style=for-the-badge&logo=python&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Digital%20Marketing%20Content%20Creation-FFCA28?style=for-the-badge&logo=adobe&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/SQL%20Injection-FF5722?style=for-the-badge&logo=sql&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Networking%20Fundamentals-4CAF50?style=for-the-badge&logo=cisco&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Routing%20Protocols-2196F3?style=for-the-badge&logo=cisco&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Network%20Security-9C27B0?style=for-the-badge&logo=cisco&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Network%20Troubleshooting-FF9800?style=for-the-badge&logo=cisco&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Network%20Monitoring%20Tools-3F51B5?style=for-the-badge&logo=wireshark&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-009688?style=for-the-badge&logo=hackerearth&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Digital%20Marketing%20Content%20Creation-FFCA28?style=for-the-badge&logo=adobe&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+ <img src="https://img.shields.io/badge/Networking%20Fundamentals-4CAF50?style=for-the-badge&logo=cisco&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Routing%20Protocols-2196F3?style=for-the-badge&logo=cisco&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Network%20Security-9C27B0?style=for-the-badge&logo=cisco&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Network%20Troubleshooting-FF9800?style=for-the-badge&logo=cisco&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Network%20Monitoring%20Tools-3F51B5?style=for-the-badge&logo=wireshark&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-009688?style=for-the-badge&logo=hackerearth&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/SQL%20Injection-FF5722?style=for-the-badge&logo=sql&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+ <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+
 </div>
 
 
