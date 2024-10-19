@@ -90,9 +90,8 @@ Mastered front-end development using HTML, CSS, JS, and ReactJS.
 
   <img src="https://img.shields.io/badge/Ethical%20Hacking-009688?style=for-the-badge&logo=hackerearth&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/SQL%20Injection-FF5722?style=for-the-badge&logo=sql&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
-    
-      <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
