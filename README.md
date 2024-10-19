@@ -86,8 +86,11 @@ Mastered front-end development using HTML, CSS, JS, and ReactJS.
   <img src="https://img.shields.io/badge/Network%20Security-9C27B0?style=for-the-badge&logo=cisco&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/Network%20Troubleshooting-FF9800?style=for-the-badge&logo=cisco&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/Network%20Monitoring%20Tools-3F51B5?style=for-the-badge&logo=wireshark&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px; border-radius: 12px;">
+     <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=data%20structures&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
+
   <img src="https://img.shields.io/badge/Ethical%20Hacking-009688?style=for-the-badge&logo=hackerearth&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/SQL%20Injection-FF5722?style=for-the-badge&logo=sql&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px; border-radius: 12px;">
+    
       <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px; border-radius: 12px;">
