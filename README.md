@@ -125,12 +125,12 @@ HTML, CSS, ReactJS – Data visualization and predictive modeling dashboard with
 - **LEAP WEB**: Designed marketing materials aligned with brand identity.
 
 # 🔖 Certificates:
-
+- 📊 [Google Data Analytics Certificate](https://coursera.org/share/46a515cad7b809386a146b161da4f538)
 - 🎓 [Advanced C++ Course Online](https://simpli-web.app.link/e/oIdldiHV5Mb)
 - 🔐 [Introduction to Ethical Hacking](https://www.mygreatlearning.com/certificate/DMRBIHPX)
 - 📈 [SEBI Investor Certification Examination](https://rb.gy/95uehx)
 - 🏆 [Eureka 2023 Semifinalist Certification](https://shorturl.at/YmWds)
-
+  
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemashaikh&show_icons=true&locale=en&layout=compact&theme=dark" alt="sayemashaikh" />
